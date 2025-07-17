@@ -157,7 +157,7 @@ function Footer({ total }) {
 
     return (
         <footer>
-            <p>The total price of your expenses is #{total}</p>
+            <p>The total price of your expenses is ${total}</p>
         </footer>
     );
 }
